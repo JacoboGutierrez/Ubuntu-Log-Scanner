@@ -6,7 +6,7 @@
 </p>
 
 # Log Scanner
-** Version 1.0 **
+**Version 1.0**
 This is a log scanner for Ubuntu OS.
 
 # Install
