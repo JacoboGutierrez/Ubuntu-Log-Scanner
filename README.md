@@ -10,7 +10,9 @@
 This is a log scanner for Ubuntu OS.
 
 # Install
-Unzip LogScan-Ubuntu-v1.0.0.zip <br>
-cd LogScan <br>
-chmod +x install.sh <br>
-./install.sh <br>
+<ul>
+<li>Unzip LogScan-Ubuntu-v1.0.0.zip</li>
+<li>cd LogScan</li>
+<li>chmod +x install.sh</li>
+<li>./install.sh</li>
+</ul>
